@@ -103,3 +103,9 @@ a:hover {
   opacity: 0.6;
   border-bottom: 2px dotted var(--text-blue);
 }
+
+@media (max-width: 480px) {
+  footer {
+    font-size: 1.05em;
+  }
+}
